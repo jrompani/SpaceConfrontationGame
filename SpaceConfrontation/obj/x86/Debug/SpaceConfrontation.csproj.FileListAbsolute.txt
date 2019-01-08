@@ -1,0 +1,139 @@
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SpaceConfrontation.exe
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SpaceConfrontation.pdb
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.dll
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.xml
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\obj\x86\Debug\SpaceConfrontation.exe
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\obj\x86\Debug\SpaceConfrontation.pdb
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Fonts\BigFont.xnb
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\sprites.png
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\Explosion1.wav
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\Explosion2.wav
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\world.wav
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\Explosion1.xnb
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\explosion3.png
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\bullet.wav
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\bullet.xnb
+c:\users\daemon\documents\visual studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\composite.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\rocks.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\space.jpg
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\obj\x86\Debug\SpaceConfrontation.csprojResolveAssemblyReference.cache
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\obj\x86\Debug\SpaceConfrontation.exe
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\obj\x86\Debug\SpaceConfrontation.pdb
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\bola.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\composite.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\explosion3.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\fondo.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\Harry.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\nave.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\rocks.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\space.jpg
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\spaceship.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\sprites.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\bullet.wav
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\Explosion1.wav
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\Explosion2.wav
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\world.wav
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\bullet.xnb
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\Explosion1.xnb
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SpaceConfrontation.exe
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SpaceConfrontation.pdb
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.dll
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.xml
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\obj\x86\Debug\SpaceConfrontation.csprojResolveAssemblyReference.cache
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\laser.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\efectoExplosion.wav
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Fonts\BigFont.xnb
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Fonts\Stats.xnb
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\bola.png
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\composite.png
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\explosion3.png
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\fondo.png
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\Harry.png
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\laser.png
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\nave.png
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\rocks.png
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\space.jpg
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\spaceship.png
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\sprites.png
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\bullet.wav
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\efectoExplosion.wav
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\Explosion1.wav
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\Explosion2.wav
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\world.wav
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Fonts\BigFont.xnb
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Fonts\Stats.xnb
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\bullet.xnb
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\Explosion1.xnb
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SpaceConfrontation.exe
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SpaceConfrontation.pdb
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.dll
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.xml
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\obj\x86\Debug\SpaceConfrontation.csprojResolveAssemblyReference.cache
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\obj\x86\Debug\SpaceConfrontation.exe
+C:\Users\Villa\Desktop\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\SpaceConfrontation\obj\x86\Debug\SpaceConfrontation.pdb
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\laser.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\efectoExplosion.wav
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Fonts\Stats.xnb
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\2.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\3.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\4.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\5.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\eSpritesheet_40x30.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\f1.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\Enemy.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\spaceship.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\explosion.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Images\Enemy2.png
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\SpaceConfrontation\SpaceConfrontation\bin\Windows\Debug\Content\Sounds\explosion11.wav
